@@ -1,0 +1,15 @@
+{
+  "name": "zan-compare",
+  "version": "1.0.0",
+  "description": "Compare zan object to and JS object and validate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.forown": "^4.0.2",
+    "zan": "^3.0.0"
+  }
+}
