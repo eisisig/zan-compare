@@ -12,7 +12,7 @@ See **zan** for more info [zan](https://github.com/kolodny/zan)
 const zan = require('zan');
 const compare = require('zan-compare');
 
-const { recursive } = zen;
+const { recursive, types } = zan;
 const { number, string } = types;
 
 const shape = recursive({
