@@ -1,6 +1,6 @@
 {
   "name": "zan-compare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compare zan object to and JS object and validate",
   "main": "index.js",
   "scripts": {
