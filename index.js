@@ -31,3 +31,5 @@ function compare (branch, props, returnErrors) {
 
 	return returnErrors ? errors : !errors.length;
 }
+
+module.exports = compare;
